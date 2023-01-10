@@ -153,7 +153,7 @@ if defined activate goto _activate
 :MainMenu
 
 cls
-title  IDM Activation Script 0.7 - @ModBysts
+title  IDM Activation Script 0.7 - @ModByTechi-Si
 mode 65, 25
 
 :: Check firewall status
@@ -181,10 +181,10 @@ set _status=Status_Unclear
 set _col=%_Yellow%
 )
 
-call :_color2 %_White% "        " %_Green% "  Create By sts"
+call :_color2 %_White% "        " %_Green% "  Create By Tech-Si"
 echo:          _____________________________________________   
 echo: 
-echo:          Telegram: @ModBysts
+echo:          Telegram: @ModByTech-Si
 echo:          
 echo:          _____________________________________________   
 echo:                                                          
